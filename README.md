@@ -12,3 +12,9 @@
 
 * 실습에 사용할 도구: numpy, matplotlib
 * 가시화를 위해 만들어 둔 코드: https://github.com/dknife/linalg/blob/main/tool/visualizer.py
+
+
+
+[실습 2: 쿼터니언의 연산](https://colab.research.google.com/drive/1M6bmKLjNbKZFU3cwh6yLq99csaob-i1W?usp=sharing)
+
+[실습 3: 쿼터니언을 이용한 회전](https://colab.research.google.com/drive/1PeZCxArhj9OE8KCFDbTsakTbWUIp9EtH#scrollTo=izuTPOcd3NzE)
