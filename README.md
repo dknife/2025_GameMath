@@ -16,4 +16,6 @@
 
 ## 강의
 
-### 강의 1 
+### 강의 1 강의 전체 개요
+
+[강의노트](https://github.com/dknife/2025_GameMath/blob/main/Lec/%EA%B0%95%EC%9D%981_%EC%A0%84%EC%B2%B4%EA%B0%9C%EC%9A%94.pdf)
