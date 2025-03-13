@@ -19,3 +19,8 @@
 ### 강의 1 강의 전체 개요
 
 [강의노트](https://github.com/dknife/2025_GameMath/raw/main/Lec/%EA%B0%95%EC%9D%981_%EC%A0%84%EC%B2%B4%EA%B0%9C%EC%9A%94.pdf)
+
+
+### 강의 2 벡터와 행렬의 이해와 가시화
+
+[강의노트]()
