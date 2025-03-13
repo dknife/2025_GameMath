@@ -23,4 +23,4 @@
 
 ### 강의 2 벡터와 행렬의 이해와 가시화
 
-[강의노트]()
+[강의노트](https://github.com/dknife/2025_GameMath/raw/main/Lec/%EA%B0%95%EC%9D%982_%EB%B2%A1%ED%84%B0%EA%B0%80%EC%8B%9C%ED%99%94%EC%99%80%EB%8D%A7%EC%85%88%EB%BA%84%EC%85%88.pdf)
