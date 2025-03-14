@@ -28,3 +28,5 @@
 [실습 1 - 코랩 사용해 보기](https://colab.research.google.com/drive/1FdnlAWaf5nMlRKWIQ7h_XfpDvupZpF7b?usp=sharing)
 
 [실습 2 - 가시화 도구 사용하기](https://colab.research.google.com/drive/1R8K9ydWRgJrorzj56mjpAHx5JtxWhZlf?usp=sharing)
+
+｢실습 ３ － 벡터의 노름｣(https://colab.research.google.com/drive/1ckTvzyq0JeFKhZVZFoyIiV6HZ4PKl97Y?usp=sharing）
