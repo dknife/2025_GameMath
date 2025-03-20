@@ -32,3 +32,8 @@
 [실습 3 - 벡터의 노름](https://colab.research.google.com/drive/1ckTvzyq0JeFKhZVZFoyIiV6HZ4PKl97Y?usp=sharing)
 
 [실습 4 - 벡터의 노름과 정규화](https://colab.research.google.com/drive/13h5rUmfB8HKSV2sr0ee7CWyaJ_TxvYiq?usp=sharing)
+
+### 강의 2-2 벡터의 덧셈과 뺄셈, 아다마르곱
+
+### 강의 3 벡터의 점곱
+[강의노트]()
