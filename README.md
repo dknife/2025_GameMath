@@ -37,4 +37,4 @@
 
 ### 강의 3 벡터의 점곱
 
-[강의노트](https://github.com/dknife/2025_GameMath/blob/main/Lec/%EA%B0%95%EC%9D%983_%EB%B2%A1%ED%84%B0%EC%9D%98%EC%A0%90%EA%B3%B1.pdf)
+[강의노트](https://github.com/dknife/2025_GameMath/raw/main/Lec/%EA%B0%95%EC%9D%983_%EB%B2%A1%ED%84%B0%EC%9D%98%EC%A0%90%EA%B3%B1.pdf)
