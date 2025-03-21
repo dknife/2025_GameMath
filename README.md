@@ -42,3 +42,5 @@
 [강의노트](https://github.com/dknife/2025_GameMath/raw/main/Lec/%EA%B0%95%EC%9D%983_%EB%B2%A1%ED%84%B0%EC%9D%98%EC%A0%90%EA%B3%B1.pdf)
 
 [실습 1 - 벡터의 점곱](https://colab.research.google.com/drive/1VadaiMJjylUapV8qswDe-B22u53zq4Ls?usp=sharing)
+
+[실습 2 - 점곱의 응용](https://colab.research.google.com/drive/1NHQr3vR6_imcQy_aMOPPTOEe58wB8nek?usp=sharing)
