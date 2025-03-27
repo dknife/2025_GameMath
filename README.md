@@ -44,3 +44,8 @@
 [실습 1 - 벡터의 점곱](https://colab.research.google.com/drive/1VadaiMJjylUapV8qswDe-B22u53zq4Ls?usp=sharing)
 
 [실습 2 - 점곱의 응용](https://colab.research.google.com/drive/1NHQr3vR6_imcQy_aMOPPTOEe58wB8nek?usp=sharing)
+
+### 강의 4 벡터의 가위곱
+
+[강의노트]()
+
