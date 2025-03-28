@@ -45,6 +45,11 @@
 
 [실습 2 - 점곱의 응용](https://colab.research.google.com/drive/1NHQr3vR6_imcQy_aMOPPTOEe58wB8nek?usp=sharing)
 
+### 추가 실습
+
+[실습 3 - 점곱의 응용 2](https://colab.research.google.com/drive/1tybA0ga_y0g_KzMLxCYYnFbLhn_iOQN2?usp=sharing)
+
+
 ### 강의 4 벡터의 가위곱
 
 [강의노트](https://github.com/dknife/2025_GameMath/raw/main/Lec/%EA%B0%95%EC%9D%984_%EB%B2%A1%ED%84%B0%EC%9D%98%EA%B0%80%EC%9C%84%EA%B3%B1.pdf)
