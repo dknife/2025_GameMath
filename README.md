@@ -63,3 +63,5 @@
 ### 강의 6 벡터 연산의 응용
 
 [강의노트](https://github.com/dknife/2025_GameMath/blob/main/Lec/%EA%B0%95%EC%9D%985_%EB%B2%A1%ED%84%B0%EC%9D%98%EC%9D%91%EC%9A%A9.pdf)
+
+[실습 1- 벡터의 응용](https://colab.research.google.com/drive/1ao04vIIOO-Kz9jn_HEDsE9YOs8Lnvnfj?usp=sharing)
