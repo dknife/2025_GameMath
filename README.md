@@ -76,3 +76,5 @@
 [실습 1 - 행렬의 가시화](https://colab.research.google.com/drive/1PDfGUnnBOr8-QJeQNFYVY2THDF7Nar1x?usp=sharing)
 
 [실습 2 - 행렬 덧셈의 가시화](https://colab.research.google.com/drive/1pCbEhCruYivRgS2R_RRdr95_tLQ41YCE?usp=sharing)
+
+[실습 3 - 행렬의 곱셈 구현](https://colab.research.google.com/drive/1Bo5NokD0nRMxbtfLXfErP2_ODI-K2RXt?usp=sharing)
