@@ -72,3 +72,5 @@
 ### 강의 7 행렬의 이해
 
 [강의노트](https://github.com/dknife/2025_GameMath/raw/main/Lec/%EA%B0%95%EC%9D%986_%ED%96%89%EB%A0%AC%EA%B8%B0%EC%B4%88.pdf)
+
+[실습 1 - 행렬의 가시화](https://colab.research.google.com/drive/1PDfGUnnBOr8-QJeQNFYVY2THDF7Nar1x?usp=sharing)
