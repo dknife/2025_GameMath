@@ -80,3 +80,8 @@
 [실습 3 - 행렬의 곱셈 구현](https://colab.research.google.com/drive/1Bo5NokD0nRMxbtfLXfErP2_ODI-K2RXt?usp=sharing)
 
 [실습 4 - 행렬 곱셈의 가시화 (행렬식의 이해)](https://colab.research.google.com/drive/1IjbkISLuq2TOAGtgQIyksSCaJ8fFZAwA?usp=sharing)
+
+### 강의 8 행렬식과 역행렬
+
+[강의노트]()
+
