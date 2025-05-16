@@ -83,5 +83,5 @@
 
 ### 강의 8 행렬식과 역행렬
 
-[강의노트]()
+[강의노트](https://github.com/dknife/2025_GameMath/blob/main/Lec/%EA%B0%95%EC%9D%987_%ED%96%89%EB%A0%AC%EC%8B%9D%EA%B3%BC%EC%97%AD%ED%96%89%EB%A0%AC.pdf)
 
