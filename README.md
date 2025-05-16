@@ -85,3 +85,4 @@
 
 [강의노트](https://github.com/dknife/2025_GameMath/raw/main/Lec/%EA%B0%95%EC%9D%987_%ED%96%89%EB%A0%AC%EC%8B%9D%EA%B3%BC%EC%97%AD%ED%96%89%EB%A0%AC.pdf)
 
+[실습 1 - 행렬식과 역행렬](https://colab.research.google.com/drive/18RfJcPq2VSjawrqH3bvxV82Yw2GaTE9t?usp=sharing)
