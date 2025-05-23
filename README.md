@@ -93,3 +93,4 @@
 
 [강의노트](https://github.com/dknife/2025_GameMath/raw/main/Lec/%EA%B0%95%EC%9D%988_%ED%96%89%EB%A0%AC%EA%B3%BC%EB%B3%80%ED%99%98.pdf)
 
+### 퀴즈 - 역행렬 구하기(손)
