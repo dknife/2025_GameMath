@@ -93,6 +93,7 @@
 
 [강의노트](https://github.com/dknife/2025_GameMath/raw/main/Lec/%EA%B0%95%EC%9D%988_%ED%96%89%EB%A0%AC%EA%B3%BC%EB%B3%80%ED%99%98_%EC%88%98%EC%A0%95.pdf)
 
+[실습 1 - 행렬을 통한 변환](https://colab.research.google.com/drive/1dQDnEnhwXJfV6p54Ip2PnRHZJH-tgrJq?usp=sharing)
 
 ### 퀴즈 - 역행렬 구하기(손)
 
