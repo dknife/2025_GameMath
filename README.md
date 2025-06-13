@@ -103,3 +103,5 @@
 [강의노트](https://github.com/dknife/2025_GameMath/raw/main/Lec/%EA%B0%95%EC%9D%989_%EB%B3%B5%EC%86%8C%EC%88%98%EC%99%80%ED%9A%8C%EC%A0%84_%EC%BF%BC%ED%84%B0%EB%8B%88%EC%96%B8_2.pdf)
 
 [실습 1 - 복소수 가시화](https://colab.research.google.com/drive/1XJu2UivwmVTYLqHjVnoNZSrZY-ayfhe4?usp=sharing)
+
+[실습 2 - 쿼터니언](https://colab.research.google.com/drive/1OL3kl3Fr2U4oSIdwZiVdgWP3FVYDirf0?usp=sharing)
