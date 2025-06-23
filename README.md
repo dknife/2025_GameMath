@@ -105,3 +105,6 @@
 [실습 1 - 복소수 가시화](https://colab.research.google.com/drive/1XJu2UivwmVTYLqHjVnoNZSrZY-ayfhe4?usp=sharing)
 
 [실습 2 - 쿼터니언](https://colab.research.google.com/drive/1OL3kl3Fr2U4oSIdwZiVdgWP3FVYDirf0?usp=sharing)
+
+### 기말고사
+#### [기말고사 정답](https://colab.research.google.com/drive/1PGvZg_a2xxEjURXRS01l3TzDmZ29QadG?usp=sharing)
